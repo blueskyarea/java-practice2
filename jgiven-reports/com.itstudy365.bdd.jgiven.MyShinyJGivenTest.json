@@ -1,0 +1,72 @@
+{
+  "className": "com.itstudy365.bdd.jgiven.MyShinyJGivenTest",
+  "name": "My Shiny J Given",
+  "scenarios": [
+    {
+      "className": "com.itstudy365.bdd.jgiven.MyShinyJGivenTest",
+      "testMethodName": "something_should_happen",
+      "description": "something should happen",
+      "tagIds": [],
+      "explicitParameters": [],
+      "derivedParameters": [],
+      "casesAsTable": false,
+      "scenarioCases": [
+        {
+          "caseNr": 1,
+          "steps": [
+            {
+              "name": "サーバーが止まっている時に",
+              "words": [
+                {
+                  "value": "Given",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "サーバーが止まっている時に"
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 34176090
+            },
+            {
+              "name": "プログラムを実行すると",
+              "words": [
+                {
+                  "value": "When",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "プログラムを実行すると"
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 2415435
+            },
+            {
+              "name": "エラーになる",
+              "words": [
+                {
+                  "value": "Then",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "エラーになる"
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 499664
+            }
+          ],
+          "explicitArguments": [],
+          "derivedArguments": [],
+          "status": "SUCCESS",
+          "success": true,
+          "durationInNanos": 64009216
+        }
+      ],
+      "durationInNanos": 64009216,
+      "executionStatus": "SUCCESS"
+    }
+  ],
+  "tagMap": {}
+}

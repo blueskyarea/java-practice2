@@ -1,0 +1,72 @@
+{
+  "className": "com.itstudy365.bdd.jgiven.UsingRulesTest",
+  "name": "Using Rules",
+  "scenarios": [
+    {
+      "className": "com.itstudy365.bdd.jgiven.UsingRulesTest",
+      "testMethodName": "something_should_happen",
+      "description": "something should happen",
+      "tagIds": [],
+      "explicitParameters": [],
+      "derivedParameters": [],
+      "casesAsTable": false,
+      "scenarioCases": [
+        {
+          "caseNr": 1,
+          "steps": [
+            {
+              "name": "サーバーが止まっている時に",
+              "words": [
+                {
+                  "value": "given",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "サーバーが止まっている時に"
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 682056
+            },
+            {
+              "name": "プログラムを実行すると",
+              "words": [
+                {
+                  "value": "when",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "プログラムを実行すると"
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 699127
+            },
+            {
+              "name": "エラーになる",
+              "words": [
+                {
+                  "value": "then",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "エラーになる"
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 1477521
+            }
+          ],
+          "explicitArguments": [],
+          "derivedArguments": [],
+          "status": "SUCCESS",
+          "success": true,
+          "durationInNanos": 16091860
+        }
+      ],
+      "durationInNanos": 16091860,
+      "executionStatus": "SUCCESS"
+    }
+  ],
+  "tagMap": {}
+}
