@@ -26,7 +26,7 @@
                 }
               ],
               "status": "PASSED",
-              "durationInNanos": 34176090
+              "durationInNanos": 25577545
             },
             {
               "name": "プログラムを実行すると",
@@ -40,7 +40,7 @@
                 }
               ],
               "status": "PASSED",
-              "durationInNanos": 2415435
+              "durationInNanos": 2358862
             },
             {
               "name": "エラーになる",
@@ -54,17 +54,17 @@
                 }
               ],
               "status": "PASSED",
-              "durationInNanos": 499664
+              "durationInNanos": 965949
             }
           ],
           "explicitArguments": [],
           "derivedArguments": [],
           "status": "SUCCESS",
           "success": true,
-          "durationInNanos": 64009216
+          "durationInNanos": 60658228
         }
       ],
-      "durationInNanos": 64009216,
+      "durationInNanos": 60658228,
       "executionStatus": "SUCCESS"
     }
   ],
